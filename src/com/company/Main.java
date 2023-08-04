@@ -18,7 +18,7 @@ public class Main {
 
         //bundan sonrası stars branchında yazılmıştır
         StarFeature mrv = new StarFeature();
-        mrv.color=white;
+        mrv.color="white"; //error resolved
         mrv.size="36";
         mrv.radius="3500km";
 
