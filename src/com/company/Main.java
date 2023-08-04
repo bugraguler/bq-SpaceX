@@ -15,5 +15,12 @@ public class Main {
 
         //bu kod ftrsun branch ında yazıldı
         //denemedir
+
+        //bundan sonrası stars branchında yazılmıştır
+        StarFeature mrv = new StarFeature();
+        mrv.color="white"; //error resolved
+        mrv.size="36";
+        mrv.radius="3500km";
+
     }
 }
