@@ -12,5 +12,8 @@ public class Main {
         suncak.color="red";
         suncak.heat="1988kj";
         suncak.radius="4444km";
+
+        //bu kod ftrsun branch ında yazıldı
+        //denemedir
     }
 }
