@@ -28,6 +28,12 @@ public class Main {
         tata.color = "blue";
         tata.size = "14kg";
         tata.name = "cucuto";
+
+        //planet1 fatures
+        Planet2Features nasa = new Planet2Features();
+        nasa.color = "yellow";
+        nasa.size = "95kg";
+        nasa.name = "mamo";
         
     }
 }
