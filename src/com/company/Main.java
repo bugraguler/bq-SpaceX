@@ -27,7 +27,7 @@ public class Main {
         Planet1Features tata = new Planet1Features();
         tata.color = "blue";
         tata.size = "14kg";
-        tata.name = "cucuto";
+        tata.nameS = "cucuto";
 
         //planet1 fatures
         Planet2Features nasa = new Planet2Features();
